@@ -1,0 +1,36 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-location",
+      "2": "I-location",
+      "3": "L-location",
+      "4": "U-location",
+      "5": "B-rooms",
+      "6": "I-rooms",
+      "7": "L-rooms",
+      "8": "U-rooms",
+      "9": "B-size",
+      "10": "I-size",
+      "11": "L-size",
+      "12": "U-size",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-location": 1,
+      "I-location": 2,
+      "L-location": 3,
+      "U-location": 4,
+      "B-rooms": 5,
+      "I-rooms": 6,
+      "L-rooms": 7,
+      "U-rooms": 8,
+      "B-size": 9,
+      "I-size": 10,
+      "L-size": 11,
+      "U-size": 12,
+      "O": 0
+    },
+    "num_tags": 13
+  }
+]

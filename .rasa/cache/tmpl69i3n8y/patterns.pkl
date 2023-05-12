@@ -1,0 +1,6 @@
+[
+  {
+    "name": "location",
+    "pattern": "(\\bPirallahi\\ m\\.\\b|\\bPirallahi\\ r\\.\\b|\\bSalyan\\b|\\bGoranboy\\b)"
+  }
+]
